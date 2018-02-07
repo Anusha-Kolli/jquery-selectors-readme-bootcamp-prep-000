@@ -1,4 +1,7 @@
 // declare your functions here...
 function paragraphSelector(){
-  	$("p")
+  	let array = $("p");
+    foreach(array){
+      return array;
+    }
 }
